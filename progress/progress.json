@@ -5,23 +5,36 @@
   "days_left": 40,
   
   "current_stage": "01 — Cloud Fundamentals & Identity Intro",
-  "current_lesson": "Aula 1 — Portais Microsoft, Entra ID, Usuários, Grupos (Atribuído vs Dinâmico), Acesso Condicional, Intune Overview, Custom Domains",
-  "concepts_mastered": 0,
-  "flashcards_total": 0,
+  "current_lesson": "Aula 1 ✅ — Portais, Entra ID, Usuários, Grupos (Atribuído vs Dinâmico), Acesso Condicional, Intune, Custom Domains",
+  "concepts_mastered": 8,
+  "flashcards_total": 4,
   
   "udemy_progress": {
     "modules_done": [],
     "next_module": "Module 1 — Cloud Basics & Subscriptions"
   },
   
-  "ka_modules_done": [],
+  "ka_modules_done": ["Aula 1 — Identity Foundations"],
   
   "labs_official_done": [],
   "labs_challenge_done": [],
   
-  "weak_spots": [],
+  "weak_spots": [
+    "Precisão terminológica (DNS externo vs Azure)",
+    "Sequência de onboarding completa (usuário → licença → Intune)",
+    "Quando usar atribuído vs dinâmico (acertou, mas memorizar)"
+  ],
   
-  "flashcard_accuracy_last": null,
+  "pegadinhas_prova": [
+    "Custom domain: TXT ou MX no DNS EXTERNO (não Azure)",
+    "Dinâmico precisa Business Premium license",
+    "Acesso Condicional: primeira regra que bate ganha",
+    "Ordem das políticas é crítica"
+  ],
+  
+  "flashcard_accuracy_last": "4/4 (CHECK)", 
   "last_session": "2026-07-09",
-  "sessions_total": 1
+  "sessions_total": 1,
+  
+  "next_action": "Lab 1 — Manage Entra ID (hands-on validation)"
 }
