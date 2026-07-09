@@ -1,12 +1,27 @@
 {
-  "goal": "1000 questões AZ-104",
-  "start_date": "2026-07-08",
+  "goal": "1000 AZ-104",
+  "start_date": "2026-07-09",
   "exam_date": "2026-08-18",
-  "days_left": 42,
-  "current_lesson": "Aguardando Lição 1",
+  "days_left": 40,
+  
+  "current_stage": "01 — Cloud Fundamentals & Identity Intro",
+  "current_lesson": "Aula 1 — Portais Microsoft, Entra ID, Usuários, Grupos (Atribuído vs Dinâmico), Acesso Condicional, Intune Overview, Custom Domains",
   "concepts_mastered": 0,
   "flashcards_total": 0,
-  "labs_done": [],
+  
+  "udemy_progress": {
+    "modules_done": [],
+    "next_module": "Module 1 — Cloud Basics & Subscriptions"
+  },
+  
+  "ka_modules_done": [],
+  
+  "labs_official_done": [],
+  "labs_challenge_done": [],
+  
   "weak_spots": [],
-  "last_session": "2026-07-08"
+  
+  "flashcard_accuracy_last": null,
+  "last_session": "2026-07-09",
+  "sessions_total": 1
 }
